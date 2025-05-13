@@ -19,7 +19,6 @@
 
 
 # HELIX
-## HELIX
 HELIX is [unyt.org](https://unyt.org)'s blockchain solution that serves security on the Supranet. Using the latest cryptographic technologies, data authenticity, security and privacy can be combined. HELIX acts as a transparent anonymous and decentralized shared storage.
 
 # UIX
